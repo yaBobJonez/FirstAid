@@ -10,8 +10,9 @@ nav_order: 2
 For most countries, it's
 {: .fs-6 }
 
-📞 112 | 911
-{: .fs-10 .text-blue-100 }
+| 📞 112  | 📞 911   |
+|: .fs-10 |: .fs-10 |
+{: .text-blue-100 }
 
 ---
 

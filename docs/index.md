@@ -9,12 +9,14 @@ has_toc: false
 ---
 
 # yaMedicAid
-{: .fs-9 }
+{: .fs-10 .text-red-300 }
 
 Save lives. The medicine & first aid wiki by the community.
-{: .fs-6 .fw-300 }
+{: .fs-6 .lh-0 }
 
-[Emergency numbers](numbers){: .btn .btn-red }
+<span class="fs-8">
+[Emergency numbers](numbers){: .btn .btn-blue }
+</span>
 
 ---
 
