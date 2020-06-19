@@ -12,10 +12,10 @@ has_toc: false
 {: .fs-10 .text-red-300 .lh-0 }
 
 Save lives. The medicine & first aid wiki by the community.
-{: .fs-6 }
+{: .fs-6 .lh-default }
 
-<span class="fs-8">
-[Emergency numbers](numbers){: .btn .btn-blue }
+<span class="fs-5">
+[Emergency numbers](numbers){: .btn }
 </span>
 
 ---
