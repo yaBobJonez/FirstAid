@@ -2,6 +2,7 @@
 
 ## Equipment
 
+#### A-F
 Adhesive bandage
 Adhesive tape
 Airtraq
@@ -12,6 +13,7 @@ Blind insertion airway device
 Boot (legs)
 Borescope
 Cannula
+Cast
 Cranial drill
 Crutch
 Defibrillator
@@ -25,6 +27,7 @@ Eyepatch
 Feeding tube
 Fiberscope
 First aid kit
+#### G-N
 Head mirror
 Heated humidified high-flow
 Hospital bed
@@ -33,7 +36,7 @@ Hyfrecator
 Ice pack
 Incentive spirometer
 Incubator
-Intubation
+IV line
 Jet injector
 Laryngeal tube
 Laser
@@ -51,10 +54,12 @@ Nasal cannula
 Nasopharyngeal airway
 Nebulizer
 Needle (medical)
+#### O-S
 Octopod External Fixator
 Orinasal mask
 Otoscope
 Oxygenator
+Pacemaker
 Pen needles
 Port (medical)
 Punctal plug
@@ -73,11 +78,12 @@ Stethoscope
 Stretcher
 Suzuki frame
 Syringe
+#### T-Z
 Thermometer
 Thorpe tube flowmeter
 Tongue depressor
 Tourniquet
-Tracheal tube
+Tracheal tube (intubation)
 Traction splint
 Trocar
 Tweezers
@@ -87,184 +93,165 @@ Veress needle
 Wartenberg wheel
 Wheelchair
 Winged infusion set
+X-Ray apparatus
 Yankauer suction tip
 
 ## Medications
 
 #### Gastrointestinal
-Famotidine
-Ranitidine
 Esomeprazole
+Famotidine
 Lansoprazole
-Omeprazole
-Pantoprazole Sodium
-Docusate
-Ondansetron
-Promethazine Hydrochloride
 Mesalamine
+Omeprazole
+Ondansetron
+Pantoprazole Sodium
+Promethazine Hydrochloride
+Ranitidine
 #### Musculoskeletal
-Aspirin
-Diclofenac
-Ibuprofen
-Naproxen
-Meloxicam
-Celecoxib
 Acetaminophen
-Morphine
 Acetaminophen
-Oxycodone
-Tramadol Hydrochloride
-Sumatriptan
 Alendronate Sodium
+Allopurinol
+Aspirin
 Baclofen
 Carisoprodol
+Celecoxib
 Cyclobenzaprine Hydrochloride
+Diclofenac
+Ibuprofen
+Meloxicam
 Methocarbamol
+Morphine
+Naproxen
+Oxycodone
 Tizanidine
-Allopurinol
+Tramadol Hydrochloride
 #### Respiratory (+ allergy/topical)
-Hydroxyzine
-Cetirizine Hydrochloride
-Loratadine
-Budesonide
-Fluticasone
-Mometasone
-Triamcinolone
-Benzonatate
-Clobetasol Propionate
-Hydrocortisone
-Methylprednisolone
-Prednisolone
-Prednisone
-Budesonide
-Fluticasone Propionate
 Albuterol
 Albuterol Sulfate
-Tiotropium
+Benzonatate
+Budesonide
+Budesonide
+Cetirizine Hydrochloride
+Clobetasol Propionate
+Fluticasone
+Fluticasone Propionate
+Hydrocortisone
+Hydroxyzine
+Loratadine
+Methylprednisolone
+Mometasone
 Montelukast
+Prednisolone
+Prednisone
+Tiotropium
+Triamcinolone
 #### Immune
-Amoxicillin
-Penicillin V
-Amoxicillin
-Cephalexin
-Doxycycline
-Azithromycin
-Clindamycin
-Sulfamethoxazole
-Ciprofloxacin
-Levofloxacin
-Fluconazole
 Acyclovir
+Amoxicillin
+Amoxicillin
+Azithromycin
+Cephalexin
+Ciprofloxacin
+Clindamycin
+Doxycycline
+Fluconazole
 Hydroxychloroquine Sulfate
+Levofloxacin
+Penicillin V
+Sulfamethoxazole
 #### Neuro
-Meclizine Hydrochloride
-Zolpidem Tartrate
-Trazodone Hydrochloride
-Citalopram
-Escitalopram Oxalate
-Fluoxetine Hydrochloride
-Paroxetine
-Sertraline Hydrochloride
-Duloxetine
-Venlafaxine Hydrochloride
-Amitriptyline
-Nortriptyline Hydrochloride
-Mirtazapine
-Bupropion
 Alprazolam
+Amitriptyline
+Amphetamine
+Aripiprazole
+Benztropine Mesylate
+Bupropion
+Buspirone Hydrochloride
+Citalopram
 Clonazepam
 Diazepam
-Lorazepam
-Temazepam
-Buspirone Hydrochloride
-Amphetamine
-Lisdexamfetamine Dimesylate
-Methylphenidate
-Lithium
-Aripiprazole
-Risperidone
-Quetiapine Fumarate
 Divalproex Sodium
-Phenytoin
+Donepezil Hydrochloride
+Duloxetine
+Escitalopram Oxalate
+Fluoxetine Hydrochloride
 Gabapentin
 Lamotrigine
 Levetiracetam
-Oxcarbazepine
-Pregabalin
-Topiramate
-Benztropine Mesylate
-Ropinirole Hydrochloride
-Donepezil Hydrochloride
+Lisdexamfetamine Dimesylate
+Lithium
+Lorazepam
+Meclizine Hydrochloride
 Memantine Hydrochloride
+Methylphenidate
+Nortriptyline Hydrochloride
+Paroxetine
+Phenytoin
+Pregabalin
+Risperidone
+Sertraline Hydrochloride
+Temazepam
+Topiramate
+Trazodone Hydrochloride
+Zolpidem Tartrate
 #### Cardio
-Omega-3-acid Ethyl Esters
-Aspirin
-Furosemide
-Hydrochlorothiazide
-Spironolactone
-Potassium
-Doxazosin Mesylate
-Terazosin
-Clonidine
-Propranolol Hydrochloride
-Atenolol
-Metoprolol
-Carvedilol
-Nebivolol Hydrochloride
-Benazepril Hydrochloride
-Enalapril Maleate
-Lisinopril
-Ramipril
-Losartan Potassium
-Olmesartan Medoxomil
-Valsartan
-Diltiazem Hydrochloride
-Verapamil Hydrochloride
+Amiodarone Hydrochloride
 Amlodipine Besylate
-Nifedipine
-Hydralazine Hydrochloride
-Isosorbide Mononitrate
-Nitroglycerin
+Aspirin
+Atenolol
 Atorvastatin
-Lovastatin
-Pravastatin Sodium
-Rosuvastatin Calcium
-Simvastatin
-Fenofibrate
-Gemfibrozil
-Ezetimibe
-Ezetimibe; Simvastatin
-Warfarin
-Rivaroxaban
+Benazepril Hydrochloride
+Carvedilol
+Clonidine
 Clopidogrel Bisulfate
 Digoxin
-Amiodarone Hydrochloride
+Doxazosin Mesylate
+Enalapril Maleate
+Ezetimibe
+Ezetimibe; Simvastatin
+Fenofibrate
+Furosemide
+Gemfibrozil
+Hydralazine Hydrochloride
+Hydrochlorothiazide
+Isosorbide Mononitrate
+Lisinopril
+Losartan Potassium
+Lovastatin
+Metoprolol
+Nifedipine
+Nitroglycerin
+Olmesartan Medoxomil
+Potassium
+Pravastatin Sodium
+Propranolol Hydrochloride
+Ramipril
+Rosuvastatin Calcium
+Simvastatin
+Spironolactone
+Terazosin
+Verapamil Hydrochloride
+Warfarin
 #### Endocrine
-Metformin Hydrochloride
-Sitagliptin Phosphate
-Glyburide
-Glimepiride
-Glipizide
-Pioglitazone Hydrochloride
-Insulin Aspart
-Insulin Lispro
-Insulin Detemir
-Insulin Glargine
-Levothyroxine
-Thyroid
-Testosterone
+Anastrozole
 Estradiol
 Estrogens, Conjugated
 Ethinyl Estradiol/Desogestrel
-Ethinyl Estradiol/Drospirenone
-Ethinyl Estradiol/Levonorgestrel
-Ethinyl Estradiol/Norethindrone
-Ethinyl Estradiol/Norgestimate
-Oxybutynin
-Tamsulosin Hydrochloride
 Finasteride
-Anastrozole
+Glimepiride
+Glyburide
+Insulin
+Levothyroxine
+Metformin Hydrochloride
+Oxybutynin
 Phentermine
+Pioglitazone Hydrochloride
+Sitagliptin Phosphate
+Tamsulosin Hydrochloride
+Testosterone
+Thyroid
 #### Eye drops
 Brimonidine Tartrate
 Latanoprost
@@ -274,20 +261,175 @@ Calcium
 Cholecalciferol
 Cyanocobalamin
 Ergocalciferol
+Ferrous Sulfate
 Folic Acid
 Magnesium
 Sodium
 Sodium Fluoride
-Ferrous Sulfate
+
+## Treatments and therapies
+
+#### Treatments
+Antibiotics
+Back braces
+Banding (medical)
+Blood transfusion
+Dropper (hospital)
+Heating pad
+Ice pack (treatment)
+Nasal spray
+Organ transplantation
+Pills
+Solutions
+Suppository
+Surgery
+Syrups
+Tablets
+#### Therapies
+Antibody (therapy)
+Antihormone (therapy)
+Aromatherapy
+Chemotherapy
+Cognitive behavioural
+Electromagnetic
+Electrotherapy
+Hormone (therapy)
+Intravenous (IV)
+Intubation
+Phototherapy
+Radiation (therapy)
+Ultraviolet (therapy)
+Vaccination
+
+## Diagnostics and tests
+
+Angiography
+Biopsy
+Complete blood count
+Computer tomography (CT)
+Echocardiography
+Echoencephalography
+Endoscopy
+Hemoglobin A1C
+Lipid panel
+Magnetic resonance imaging (MRI)
+Magnetoencephalography (MEG)
+Metabolic level
+Pneumoencephalography
+Positron emission tomography (PET)
+Pregnancy test
+Prothrombine time
+Radioisotope (nuclear) scanning
+Ultrasonography
+Urinalysis
 
 ## ECG/EKG
 
-TODO
+Basics
+Sinus Rhythm
+Bradycardia
+Tachycardia
+Arrhythmia
+Sinoatrial block (Sinus exit)
+Sinus arrest
+Supraventricular tachycardia (SVT)
+Atrial fibrillation
+Atrial flutter
+Atrial paced rhythm
+Premature junctional complex (PJC)
+Junctional rhythm
+Accelerated junctional rhythm
+Junctional tachycardia
+Wandering pacemaker rhythm
+Idioventricular rhythm (IVR)
+Accelerated idioventricular
+Ventricular tachycardia
+Ventricular fibrillation
+Paced ventricular rhythm
 
-## First Aid
+## First Aid (Emergencies)
 
-TODO
+Allergies
+Asthma
+Bleeding
+Burn
+Cardiac arrest
+Dislocation
+Epileptic seizure
+Fracture
+Frostbite
+Heart attack
+Nosebleed
+Poison ingestion
+Severe pain
+Shortness of breath
+Stroke
+Unconsciousness
 
 ## Common illnesses
 
-TODO
+Acne
+Addison's disease
+Allergic rhinitis
+Alzheimer's disease
+Anaphylaxis
+Angioedema
+Anorexia nervosa
+Anxiety
+Appendicitis
+Arthritis
+Bipolar disorder
+Bowel incontinence
+Brain tumor
+Bronchitis
+Cancer
+Cellulitis
+Cholecystitis
+Chronic fatigue syndrome (CFS)
+Cirrhosis
+Cold
+Cold sore
+Coma
+Conjunctivitis
+Crohn's disease
+Cystic fibrosis
+Cystitis
+Diabetes
+Diarrhea
+Down's syndrome
+Dystonia
+Flu
+Gallstones
+Gastroenteritis
+Heart failure
+Hepatitis (A, B, C)
+Human immunodeficiency virus (HIV)
+Hyperglycemia
+Hypoglycemia
+Indigestion
+Insomnia
+Kidney stones
+Lactose intolerance
+Laryngitis
+Leukemia
+Liver disease
+Lyme disease
+Malaria
+Measles
+Migraine
+Obesity
+Osteoarthritis
+Pancreatitis
+Panic disorder
+Parkinson's disease
+Pneumonia
+Psoriasis
+Scabies
+Schizophrenia
+Scoliosis
+Sinusitis
+Sore throat
+Tonsillitis
+Tuberculosis
+Varicose eczema
+Vertigo
