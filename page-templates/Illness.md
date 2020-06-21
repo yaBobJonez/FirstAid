@@ -10,7 +10,7 @@ has_toc: false
 # PAGE_NAME
 {: .fs-9 .lh-0 }
 
-![IMAGE_ALT](/assets/NoImage.png)
+![IMAGE_ALT](../assets/NoImage.png)
 
 <!--This illness requires immediate attention. <span class="text-red-300">Dial [EMS](numbers) if you are feeling bad.</span>-->
 
@@ -43,3 +43,4 @@ State the requirements, additional information here.
 {: .fs-3 .lh-0 }
 
 Add sources, references here.
+{: .fs-2 .lh-0 }
