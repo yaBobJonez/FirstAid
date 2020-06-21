@@ -352,18 +352,21 @@ Paced ventricular rhythm
 
 ## First Aid (Emergencies)
 
-Allergies
-Asthma
+Allergy
+Asthma attack
 Bleeding
 Burn
+Car accident
 Cardiac arrest
+Chocking
 Dislocation
+Drowning
 Epileptic seizure
 Fracture
 Frostbite
 Heart attack
 Nosebleed
-Poison ingestion
+Poisoning
 Severe pain
 Shortness of breath
 Stroke
