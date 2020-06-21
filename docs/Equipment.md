@@ -8,7 +8,7 @@ has_toc: false
 # Test
 {: .fs-9 .lh-0 }
 
-![IMAGE_ALT](../blob/master/assets/NoImage.png?raw=true)
+![IMAGE_ALT](https://raw.githubusercontent.com/yaBobJonez/FirstAid/master/assets/NoImage.png)
 
 ## Application(s):
 {: .fs-7 .lh-tight }

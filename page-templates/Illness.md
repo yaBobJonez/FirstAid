@@ -10,7 +10,7 @@ has_toc: false
 # PAGE_NAME
 {: .fs-9 .lh-0 }
 
-![IMAGE_ALT](../assets/NoImage.png)
+![IMAGE_ALT](https://raw.githubusercontent.com/yaBobJonez/FirstAid/master/assets/NoImage.png)
 
 <!--This illness requires immediate attention. <span class="text-red-300">Dial [EMS](numbers) if you are feeling bad.</span>-->
 

@@ -9,7 +9,7 @@ has_toc: false
 # PAGE_NAME
 {: .fs-9 .lh-0 }
 
-![IMAGE_ALT](../assets/NoImage.png)
+![IMAGE_ALT](https://raw.githubusercontent.com/yaBobJonez/FirstAid/master/assets/NoImage.png)
 
 ## Conditions:
 {: .fs-7 .lh-tight }
