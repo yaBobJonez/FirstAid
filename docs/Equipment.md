@@ -1,13 +1,11 @@
 ---
 layout: default
-title: TEMPLATE_TITLE
-nav_order: NAV_ORDER
-parent: CATEGORY
-grand_parent: Equipment
+title: Test
+nav_order: 2
 has_toc: false
 ---
 
-# PAGE_NAME
+# Test
 {: .fs-9 .lh-0 }
 
 ![IMAGE_ALT](/assets/NoImage.png)
