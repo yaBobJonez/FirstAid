@@ -197,6 +197,8 @@ Topiramate
 Trazodone Hydrochloride
 Zolpidem Tartrate
 #### Cardio
+Adrenaline
+Amiodarone
 Amiodarone Hydrochloride
 Amlodipine Besylate
 Aspirin
@@ -322,10 +324,11 @@ Prothrombine time
 Radioisotope (nuclear) scanning
 Ultrasonography
 Urinalysis
+X-Ray
 
 ## ECG/EKG
 
-Basics
+ECG Basics
 Sinus Rhythm
 Bradycardia
 Tachycardia
@@ -368,6 +371,7 @@ Unconsciousness
 
 ## Common illnesses
 
+#### A-C
 Acne
 Addison's disease
 Allergic rhinitis
@@ -394,6 +398,7 @@ Conjunctivitis
 Crohn's disease
 Cystic fibrosis
 Cystitis
+#### D-L
 Diabetes
 Diarrhea
 Down's syndrome
@@ -414,6 +419,7 @@ Laryngitis
 Leukemia
 Liver disease
 Lyme disease
+#### M-Z
 Malaria
 Measles
 Migraine

@@ -3,7 +3,7 @@ layout: default
 title: TEMPLATE_TITLE
 nav_order: NAV_ORDER
 parent: CATEGORY
-grand_parent: Medications
+grand_parent: Common illnesses
 has_toc: false
 ---
 
@@ -12,33 +12,27 @@ has_toc: false
 
 ![IMAGE_ALT](/assets/NoImage.png)
 
-## Use(s):
+<!--This illness requires immediate attention. <span class="text-red-300">Dial [EMS](numbers) if you are feeling bad.</span>-->
+
+## Symptoms:
 {: .fs-7 .lh-tight }
 
 - What
-- is it used
-- for?
+- symptoms are
+- available?
 
-## Directions (How to use):
+## Causes and risk factors:
 {: .fs-7 .lh-tight }
 
-Describe how to consume/use this medication, add doses here.
+Describe what can cause the illness and what can influence its appearance.
 
-| Age       | Dose            |
-|-----------|-----------------|
-| < 6 years | 10 ml           |
-
-## Contraindication(s):
+## Treatment:
 {: .fs-7 .lh-tight }
 
-- When
-- it cannot be
+Describe how to cure this disease.
+- What medications
+- can be
 - used?
-
-## Side effects:
-{: .fs-7 .lh-tight }
-
-Describe possible negative effects.
 
 ## Notes:
 {: .fs-6 .lh-tight }

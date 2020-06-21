@@ -2,8 +2,7 @@
 layout: default
 title: TEMPLATE_TITLE
 nav_order: NAV_ORDER
-parent: CATEGORY
-grand_parent: Medications
+parent: Diagnostics and tests
 has_toc: false
 ---
 
@@ -12,33 +11,22 @@ has_toc: false
 
 ![IMAGE_ALT](/assets/NoImage.png)
 
-## Use(s):
+## Indicates:
 {: .fs-7 .lh-tight }
 
 - What
-- is it used
-- for?
+- this test
+- indicates?
 
 ## Directions (How to use):
 {: .fs-7 .lh-tight }
 
-Describe how to consume/use this medication, add doses here.
+Describe how to do this test and receive results.
 
-| Age       | Dose            |
-|-----------|-----------------|
-| < 6 years | 10 ml           |
-
-## Contraindication(s):
+## Warnings:
 {: .fs-7 .lh-tight }
 
-- When
-- it cannot be
-- used?
-
-## Side effects:
-{: .fs-7 .lh-tight }
-
-Describe possible negative effects.
+Describe possible dangers of this test.
 
 ## Notes:
 {: .fs-6 .lh-tight }
