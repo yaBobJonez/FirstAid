@@ -3,9 +3,6 @@
 ## Equipment
 
 #### A-F
-Adhesive bandage
-Adhesive tape
-Airtraq
 Aspiration pump
 Aspirator
 Autoinjector
@@ -28,6 +25,7 @@ Feeding tube
 Fiberscope
 First aid kit
 #### G-N
+Gauze
 Head mirror
 Heated humidified high-flow
 Hospital bed
