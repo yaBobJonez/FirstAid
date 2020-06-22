@@ -3,24 +3,23 @@
 ## Equipment
 
 #### A-F
-Blind insertion airway device
-Boot (legs)
-Borescope
-Cannula
-Cast
-Cranial drill
-Crutch
-Defibrillator
-Dilator
-Dropper
-ECG/EKG
-Enema/Clyster
-Esthesiometer
-External ventricular drain
-Eyepatch
-Feeding tube
-Fiberscope
-First aid kit
+Blind insertion airway device [Image](https://www.cleanpng.com/png-tracheal-intubation-tracheal-tube-mechanical-venti-1618598/)
+Boot (legs) [Image](https://www.pinterest.com/pin/424323596120300370/)
+Borescope [Image](https://www.cleanpng.com/png-endoscope-endoscopy-light-camera-borescope-endosco-3144544/)
+Cannula [Image](https://www.indiamart.com/proddetail/romsons-i-v-cannula-with-injection-port-18824757755.html)
+Cast [Image](https://jinweikangda.en.made-in-china.com/product/uSlQqDJyYIpi/China-Manufacturer-Price-Free-Sample-Fiberglass-Casting-Tape-ISO9001-13489-Ce-FDA.html)
+Cranial drill [Image](https://www.otyker.co/product/model-ot1008-self-stopped-cranial-drill/)
+Crutch [Image](https://www.breg.com/products/canes-crutches-walkers/crutches/aluminum-push-button-crutches/)
+Defibrillator [Image](https://www.cardiopartners.com/physio-control-lifepak-20e-defibrillator.html)
+Dilator [Image](https://www.soulsource.com/products/soul-source-rigid-plastic-vaginal-dilators-size-3)
+Dropper [Image](https://www.montessoriservices.com/glass-eye-dropper)
+ECG/EKG [Image](https://www.ec21.com/product-details/3-Channel-ECG-Electrocardiograph-Machine--10920823.html)
+Enema/Clyster [Image](https://www.platanomelon.com/products/ducha-anal-lavativa?variant=19929421891)
+Esthesiometer [Image](https://www.amazon.com/Baseline-12-1480-Aesthenometer-Plastic-Discriminator/dp/B01N6AQGR9)
+Eyepatch [Image](https://www.amazon.in/362-Pirate-Eye-Patches/dp/B000IDABCQ)
+Feeding tube [Image](https://www.phsonlineordering.com/tube-ng-corpak-8fr-36in-no-wt-enfit)
+Fiberscope [Image](https://www.olympus.si/medical/en/Products-and-Solutions/Products/Tracheal-Intubation-Scopes.html)
+First aid kit [Image](https://www.redcross.org/store/deluxe-family-first-aid-kit/321275.html)
 #### G-N
 Gauze
 Head mirror
