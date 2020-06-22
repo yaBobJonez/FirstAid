@@ -3,9 +3,6 @@
 ## Equipment
 
 #### A-F
-Aspiration pump
-Aspirator
-Autoinjector
 Blind insertion airway device
 Boot (legs)
 Borescope

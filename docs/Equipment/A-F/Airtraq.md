@@ -21,6 +21,7 @@ Indirect video assisted tracheal intubation
 {: .fs-7 .lh-tight }
 
 Turn on the device, carefully insert the Airtraq into the trachea via the mouth. It is possible to connect a tube or a syringe to the Airtraq.
+
 [![Watch the video example](https://img.youtube.com/vi/HXVGVmDO1dM/hqdefault.jpg)](https://youtu.be/HXVGVmDO1dM)
 
 ## Contraindication(s):
