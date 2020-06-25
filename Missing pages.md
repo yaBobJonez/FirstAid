@@ -21,15 +21,14 @@ Feeding tube [Image](https://www.phsonlineordering.com/tube-ng-corpak-8fr-36in-n
 Fiberscope [Image](https://www.olympus.si/medical/en/Products-and-Solutions/Products/Tracheal-Intubation-Scopes.html)
 First aid kit [Image](https://www.redcross.org/store/deluxe-family-first-aid-kit/321275.html)
 #### G-N
-Gauze
-Head mirror
-Heated humidified high-flow
-Hospital bed
-Humphrey visual field analyser
-Hyfrecator
-Ice pack
-Incentive spirometer
-Incubator
+Gauze [Image](https://www.tenaquip.com/product/safecross-gauze-bandage-roll-02047-sds880)
+Head mirror [Image](https://www.clipartmax.com/max/m2i8H7i8H7Z5b1b1/)
+Heated humidified high-flow [Image](http://www.berner-ross.ru/uploads/images/f&p/)
+Hospital bed [Image](https://www.turbosquid.com/ru/3d-models/hospital-bed-model-1480941)
+Humphrey visual field analyzer [Image](https://navaophthalmic.com/product/humphrey-730/)
+Ice pack [Image](https://www.alibaba.com/product-detail/Medicine-storage-fresh-ice-bag-ice_60442835039.html)
+Incentive spirometer [Image](https://www.healthykin.com/p-5364-voldyne-incentive-spirometer.aspx)
+Incubator [Image](https://medical-x-ray.com/item-372.html)
 IV line
 Jet injector
 Laryngeal tube
