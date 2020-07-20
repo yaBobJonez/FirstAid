@@ -29,10 +29,10 @@ Humphrey visual field analyzer [Image](https://navaophthalmic.com/product/humphr
 Ice pack [Image](https://www.alibaba.com/product-detail/Medicine-storage-fresh-ice-bag-ice_60442835039.html)
 Incentive spirometer [Image](https://www.healthykin.com/p-5364-voldyne-incentive-spirometer.aspx)
 Incubator [Image](https://medical-x-ray.com/item-372.html)
-IV line
-Jet injector
-Laryngeal tube
-Laser
+IV line [Image](https://www.bbraun.com/en/products/b/infusomat-space-line.html)
+Jet injector [Image](https://www.researchgate.net/figure/Med-Jet-H-III-MIT-Canada-needle-free-injector_fig2_323759238)
+Laryngeal tube [Image](https://www.ambuusa.com/airway-management-and-anaesthesia/laryngeal-tubes/product/ambu-king-lts-d-disposable-laryngeal-tube)
+Laser [Image](https://www.swopedesigns.com/portfolio-items/medical-laser/)
 Lung flute
 Maddox wing
 Mediastinoscope
