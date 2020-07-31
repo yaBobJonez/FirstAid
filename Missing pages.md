@@ -33,9 +33,9 @@ IV line [Image](https://www.bbraun.com/en/products/b/infusomat-space-line.html)
 Jet injector [Image](https://www.researchgate.net/figure/Med-Jet-H-III-MIT-Canada-needle-free-injector_fig2_323759238)
 Laryngeal tube [Image](https://www.ambuusa.com/airway-management-and-anaesthesia/laryngeal-tubes/product/ambu-king-lts-d-disposable-laryngeal-tube)
 Laser [Image](https://www.swopedesigns.com/portfolio-items/medical-laser/)
-Lung flute
-Maddox wing
-Mediastinoscope
+Lung flute [Image](https://www.kegocorp.com/lung-flute-for-home-use-incl-14-replacement-reeds-ma-1003-e)
+Maddox wing [Image](https://www.birminghamoptical.co.uk/product/maddox-wing-test/)
+Mediastinoscope [Image](https://www.medicalexpo.com/prod/richard-wolf/product-78958-658284.html)
 Medical bag
 Medical identification tag
 Membrane oxygenator
